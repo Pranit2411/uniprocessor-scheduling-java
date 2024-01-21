@@ -14,7 +14,7 @@ References:
 William Stallings. Operating Systems: Internals and Design Principals, 1992
 
 
-#Steps to build and run the project:
+**Steps to build and run the project:**
 
 1. Ensure that you have JDK version 20.0.2 or later installed (https://www.oracle.com/java/technologies/downloads/#jdk21-windows)
     Note: On Windows, download the right .exe file, launch the installer and follow the steps on screen.
